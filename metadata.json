@@ -1,0 +1,8 @@
+{
+  "name": "2Copy of Copy of Nexa AI",
+  "description": "An all-in-one AI powerhouse application demonstrating the capabilities of the Gemini API, including chat, image generation & editing, video creation, voice conversations, and grounded search.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
